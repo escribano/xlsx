@@ -1,6 +1,6 @@
 package xlsx
 
-import . "gopkg.in/check.v1"
+import . "github.com/escribano/check"
 
 type GoogleDocsExcelSuite struct{}
 

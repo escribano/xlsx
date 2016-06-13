@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"encoding/xml"
 
-	. "gopkg.in/check.v1"
+	. "github.com/escribano/check"
 )
 
 type WorkbookSuite struct{}

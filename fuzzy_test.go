@@ -17,7 +17,7 @@ import (
 	"testing"
 	"time"
 
-	. "gopkg.in/check.v1"
+	. "github.com/escribano/check"
 )
 
 type Fuzzy struct{}

@@ -7,7 +7,7 @@ import (
 
 	"strings"
 
-	. "gopkg.in/check.v1"
+	. "github.com/escribano/check"
 )
 
 type LibSuite struct{}

@@ -1,7 +1,7 @@
 package xlsx
 
 import (
-	. "gopkg.in/check.v1"
+	. "github.com/escribano/check"
 	"time"
 )
 

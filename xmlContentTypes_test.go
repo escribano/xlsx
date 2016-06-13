@@ -3,7 +3,7 @@ package xlsx
 import (
 	"encoding/xml"
 
-	. "gopkg.in/check.v1"
+	. "github.com/escribano/check"
 )
 
 type ContentTypesSuite struct{}

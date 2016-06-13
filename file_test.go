@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"path/filepath"
 
-	. "gopkg.in/check.v1"
+	. "github.com/escribano/check"
 )
 
 type FileSuite struct{}
